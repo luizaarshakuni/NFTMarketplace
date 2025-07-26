@@ -18,4 +18,4 @@ The design emphasizes clean UI, user-friendly navigation, and adaptive layouts a
 
 ## Demo Videos
 
--[demo](https://github.com/user-attachments/assets/63944ace-ea7e-4466-b33b-a6a56c75a9ab)
+
