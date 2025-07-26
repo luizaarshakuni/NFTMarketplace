@@ -18,6 +18,3 @@ The design emphasizes clean UI, user-friendly navigation, and adaptive layouts a
 
 ## Demo Videos
 
-[demo_desktop.webm](https://github.com/user-attachments/assets/demo_desktop.webm)  
-[demo_tablet.webm](https://github.com/user-attachments/assets/demo_tablet.webm)  
-[demo_phone.webm](https://github.com/user-attachments/assets/demo_phone.webm)
